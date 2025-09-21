@@ -2,7 +2,13 @@
 A passionate Data Analyst || Power Bi Developer || Bussiness Analyst
 
 Email Me 👉 ✉️ **patelaashirwad3@gmail.com**  For Collaboration/Project or Anything Else. 😊😊
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- Proficient in data cleaning, transformation, and visualization using tools like Excel, Power BI, and Python.
+- Completed multiple hands-on projects involving real-world datasets, including sales analysis, customer segmentation, and profitability dashboards.
+- Designed interactive dashboards with KPIs, trend charts, and matrix tables to support decision-making.
+- Comfortable working with large datasets and optimizing queries for performance.
+- Experienced in translating raw data into actionable insights and business narratives.
+- Familiar with Power Query for data shaping, merging, and automation within Excel and Power BI.
+
 
 
 ## 🌐 Socials:
@@ -16,7 +22,8 @@ Email Me 👉 ✉️ **patelaashirwad3@gmail.com**  For Collaboration/Project or
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelaashirwad3-droid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=patelaashirwad3-droid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- Snake Game Repo View -->
 
