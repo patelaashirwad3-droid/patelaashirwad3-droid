@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aashirwad Patel
-A passionate Data Analyst || Power Bi Developer || Bussiness Analyst
+## A passionate Data Analyst || Power Bi Developer || Bussiness Analyst
 
 Email Me 👉 ✉️ **patelaashirwad3@gmail.com**  For Collaboration/Project or Anything Else. 😊😊
 - Proficient in data cleaning, transformation, and visualization using tools like Excel, Power BI, and Python.
